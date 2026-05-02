@@ -102,4 +102,7 @@ orbital-cli-dev/
 
 ## License
 
-ISC (as defined in `server/package.json`).
+ISC 
+
+## Author
+Love Kumar Chaudhary
